@@ -1,0 +1,18 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cosmicjs": "^3.2.17",
+    "inquirer": "^6.3.1",
+    "meteor-random": "0.0.3",
+    "npm": "^6.9.0"
+  }
+}
